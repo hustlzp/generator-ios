@@ -2,7 +2,15 @@
 
 iOS project generator for self-use.
 
-##Usage
+## Install
+
+```
+git clone https://github.com/hustlzp/generator-ios
+npm install -g yo
+npm link
+```
+
+## Usage
 
 ```
 yo ios
