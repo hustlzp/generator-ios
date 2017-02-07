@@ -30,3 +30,16 @@ pod 'UMengUShare'
 pod 'MJRefresh'
 pod 'AVOSCloud'
 ```
+
+## Other Codes
+
+In `application:didFinishLaunchingWithOptions:`:
+
+```swift
+window = UIWindow(frame: UIScreen.main.bounds)
+window!.rootViewController = ViewController()
+window!.backgroundColor = UIColor.white
+window!.makeKeyAndVisible()
+
+return true
+```
