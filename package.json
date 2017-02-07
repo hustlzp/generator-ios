@@ -1,0 +1,28 @@
+{
+  "name": "generator-ios",
+  "version": "1.0.0",
+  "description": "Generator for iOS project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "generators"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hustlzp/generator-ios.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "hustlzp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hustlzp/generator-ios/issues"
+  },
+  "homepage": "https://github.com/hustlzp/generator-ios#readme",
+  "dependencies": {
+    "yeoman-generator": "^1.1.0"
+  }
+}
